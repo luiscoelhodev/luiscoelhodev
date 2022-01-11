@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Luis! 👋
+---
+
+* 🤖 Control and Automation Engineering Graduate
+* 💻 Migrating to Back-end Development
+* 👨‍🏫 English Teacher
+* 💬 Eager for languages
+* 😄 Pronouns: He/Him
 
 <!--
 **luisscoelho/luisscoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
