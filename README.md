@@ -1,10 +1,11 @@
 ### Hi, I'm Luis! 👋
 ##
-* 🤖 Control and Automation Engineering Graduate
-* 🚀 Ioasys Back-end Camper
+* 🏥 Back-end Developer at PediuFarma App
+* 🤖 Automation Engineering Graduate
 * 💻 Migrating to Back-end Development
 * 👨‍🏫 English Teacher
 * 💬 Eager for languages
+* 🎸 Love playing music
 * 😄 Pronouns: He/Him
 ##
 <div align="center">
