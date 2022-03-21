@@ -1,6 +1,6 @@
 ### Hi, I'm Luis. Welcome to my github page! 👋
 ##
-* 🏥 Back-end Developer at PediuFarma App
+* 🏥 Full-stack Developer at PediuFarma App
 * 🤖 Automation Engineering Graduate
 * 💻 Migrating to Back-end Development
 * 👨‍🏫 English Teacher
