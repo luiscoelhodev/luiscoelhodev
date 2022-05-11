@@ -2,7 +2,7 @@
 ##
 * 🏥 Full-stack Developer at PediuFarma App
 * 🤖 Automation Engineering Graduate
-* 💻 Migrating to Back-end Development
+* 💻 Migrating to Web Development
 * 👨‍🏫 English Teacher
 * 💬 Eager for languages
 * 🎸 Love playing music
