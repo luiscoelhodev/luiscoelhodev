@@ -1,8 +1,7 @@
 ### Hi, I'm Luis. Welcome to my github page! 👋
 ##
-* 🏥 Full-stack Developer at PediuFarma App
+* 🚀 Back-end Developer at [Luby Software](https://luby.com.br/)
 * 🤖 Automation Engineering Graduate
-* 💻 Migrating to Web Development
 * 👨‍🏫 English Teacher
 * 💬 Eager for languages
 * 🎸 Love playing music
