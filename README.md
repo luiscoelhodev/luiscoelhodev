@@ -1,6 +1,6 @@
 ### Hi, I'm Luis. Welcome to my github page! 👋
 ##
-* 🚀 Back-end Developer at [Luby Software](https://luby.com.br/)
+* 🚀 Back-end Developer
 * 🤖 Automation Engineering Graduate
 * 👨‍🏫 English Teacher
 * 💬 Eager for languages
