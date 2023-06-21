@@ -1,6 +1,6 @@
 ### Hi, I'm Luis. Welcome to my github page! 👋
 ##
-* 🚀 Back-end Developer
+* 🚀 Back-end Developer switching to Data Analytics
 * 🤖 Automation Engineering Graduate
 * 👨‍🏫 English Teacher
 * 💬 Eager for languages
